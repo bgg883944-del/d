@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "PipkaBot",
+    "username": "botTa3Bachir",
     "password": "",
     "type": "mojang"
   },
@@ -35,12 +35,9 @@
       "repeat-delay": 25,
 
       "messages": [
-        "/login 2345678",
-        "MADE BY Pipka",
-        "DISCORD SERVER = discord.gg/Jma9yFsqdF",
-        "SERVER OWNERS pipkagamer",
-        "DONT USE XRAY ETC MODE DIRECT BAN",
-        "DON'T ABUSE WITH PLAYERS",
+        "made by bachir",
+        "My discord g6.b",
+        "bot ta3 bachir",
         "THANKS FOR COME"
       ]
     },
