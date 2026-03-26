@@ -29,19 +29,6 @@
       "sneak": true
     },
 
-    "chat-messages": {
-      "enabled": false,
-      "repeat": false,
-      "repeat-delay": 180,
-
-      "messages": [
-        "MADE BY Bachir",
-        "My discord g6.b",
-        "bot ta3 bachiiiiiiiir",
-        "THANKS FOR COME"
-      ]
-    },
-
     "chat-log": false,
     "auto-reconnect": true,
     "auto-reconnect-delay": 5000
