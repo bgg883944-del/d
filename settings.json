@@ -26,20 +26,7 @@
 
     "anti-afk": {
       "enabled": true,
-      "sneak": false
-    },
-
-    "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 25,
-
-      "messages": [
-        "made by bachir",
-        "My discord g6.b",
-        "bot ta3 bachir",
-        "THANKS FOR COME"
-      ]
+      "sneak": true
     },
 
     "chat-log": false,
