@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "PipkaBot",
+    "username": "botTa3Bachir",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "Deepak_SMP.aternos.me",
-    "port": 38292 ,
+    "ip": "onedd41.aternos.me",
+    "port": 46775 ,
     "version": "1.12.1"
   },
 
@@ -32,15 +32,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 25,
+      "repeat-delay": 180,
 
       "messages": [
-        "/login 2345678",
-        "MADE BY Pipka",
-        "DISCORD SERVER = discord.gg/Jma9yFsqdF",
-        "SERVER OWNERS pipkagamer",
-        "DONT USE XRAY ETC MODE DIRECT BAN",
-        "DON'T ABUSE WITH PLAYERS",
+        "MADE BY Bachir",
+        "My discord g6.b",
+        "bot ta3 bachiiiiiiiir",
         "THANKS FOR COME"
       ]
     },
